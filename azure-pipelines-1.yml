@@ -39,8 +39,7 @@ stages:
           $(tag)
 - stage: Test 
   jobs:
-  - job: Test 
-    pool: vmImage$(vmImageName) 
+  - job: Test  
     steps:   
     - task: DotNetCoreCLI@2
       inputs:
