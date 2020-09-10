@@ -44,6 +44,6 @@ stages:
     - task: DotNetCoreCLI@2
       inputs:
         command: 'test'
-        projects: '/DiceTestProject/*.csproj'
+        projects: 'DiceTestProject/DiceTestProject.csproj'
         arguments: '$(BuildConfiguration)'
         testRunTitle: 'Run tests'
