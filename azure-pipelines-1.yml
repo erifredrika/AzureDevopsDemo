@@ -37,3 +37,10 @@ stages:
         containerRegistry: $(dockerRegistryServiceConnection)
         tags: |
           $(tag)
+    - task: DotNetCoreCLI@2
+      inputs: 
+        command: test
+        project: '/DiceTestProject/*.csproj'
+        arguments: '--configuration $(buildConfiguration)'
+    - script: dotnet build --configuration $(buildConfiguration)
+      displayName: 'dotnet build $(buildConfiguration)'
