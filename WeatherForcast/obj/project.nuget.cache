@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zsj4R3AzROsvRf1L7VcP3d1ykGwqdJbuVi2KXx8spAsJTDRa+pfuySJ0kbY1rBnnXj+bQG0YRIehdlrkrzhQLA==",
+  "dgSpecHash": "9NhvEMrPiXBA/V6uhgiquPiSd6LWbEitAcfjopWLVtZ8yPP551N2DaEdlzuGEQRh7cMt93fGqLZXnJaxhOxfiQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\erifr\\Documents\\.NET utvecklare\\Molnkurs\\AzureDevopsDemo\\AzureDevopsDemo\\WeatherForcast\\WeatherForcast\\WeatherForcast.csproj",
+  "projectFilePath": "C:\\Users\\erifr\\Documents\\.NET utvecklare\\Molnkurs\\AzureDevopsDemo\\AzureDevopsDemo\\WeatherForcast\\WeatherForcast.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

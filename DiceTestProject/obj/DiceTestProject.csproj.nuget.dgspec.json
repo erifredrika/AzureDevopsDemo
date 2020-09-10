@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\erifr\\Documents\\.NET utvecklare\\Molnkurs\\AzureDevopsDemo\\AzureDevopsDemo\\WeatherForcast\\DiceTestProject\\DiceTestProject.csproj": {}
+    "C:\\Users\\erifr\\Documents\\.NET utvecklare\\Molnkurs\\AzureDevopsDemo\\AzureDevopsDemo\\DiceTestProject\\DiceTestProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\erifr\\Documents\\.NET utvecklare\\Molnkurs\\AzureDevopsDemo\\AzureDevopsDemo\\WeatherForcast\\DiceTestProject\\DiceTestProject.csproj": {
+    "C:\\Users\\erifr\\Documents\\.NET utvecklare\\Molnkurs\\AzureDevopsDemo\\AzureDevopsDemo\\DiceTestProject\\DiceTestProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\erifr\\Documents\\.NET utvecklare\\Molnkurs\\AzureDevopsDemo\\AzureDevopsDemo\\WeatherForcast\\DiceTestProject\\DiceTestProject.csproj",
+        "projectUniqueName": "C:\\Users\\erifr\\Documents\\.NET utvecklare\\Molnkurs\\AzureDevopsDemo\\AzureDevopsDemo\\DiceTestProject\\DiceTestProject.csproj",
         "projectName": "DiceTestProject",
-        "projectPath": "C:\\Users\\erifr\\Documents\\.NET utvecklare\\Molnkurs\\AzureDevopsDemo\\AzureDevopsDemo\\WeatherForcast\\DiceTestProject\\DiceTestProject.csproj",
+        "projectPath": "C:\\Users\\erifr\\Documents\\.NET utvecklare\\Molnkurs\\AzureDevopsDemo\\AzureDevopsDemo\\DiceTestProject\\DiceTestProject.csproj",
         "packagesPath": "C:\\Users\\erifr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\erifr\\Documents\\.NET utvecklare\\Molnkurs\\AzureDevopsDemo\\AzureDevopsDemo\\WeatherForcast\\DiceTestProject\\obj\\",
+        "outputPath": "C:\\Users\\erifr\\Documents\\.NET utvecklare\\Molnkurs\\AzureDevopsDemo\\AzureDevopsDemo\\DiceTestProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,8 +30,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\erifr\\Documents\\.NET utvecklare\\Molnkurs\\AzureDevopsDemo\\AzureDevopsDemo\\WeatherForcast\\WeatherForcast\\WeatherForcast.csproj": {
-                "projectPath": "C:\\Users\\erifr\\Documents\\.NET utvecklare\\Molnkurs\\AzureDevopsDemo\\AzureDevopsDemo\\WeatherForcast\\WeatherForcast\\WeatherForcast.csproj"
+              "C:\\Users\\erifr\\Documents\\.NET utvecklare\\Molnkurs\\AzureDevopsDemo\\AzureDevopsDemo\\WeatherForcast\\WeatherForcast.csproj": {
+                "projectPath": "C:\\Users\\erifr\\Documents\\.NET utvecklare\\Molnkurs\\AzureDevopsDemo\\AzureDevopsDemo\\WeatherForcast\\WeatherForcast.csproj"
               }
             }
           }
@@ -84,14 +84,14 @@
         }
       }
     },
-    "C:\\Users\\erifr\\Documents\\.NET utvecklare\\Molnkurs\\AzureDevopsDemo\\AzureDevopsDemo\\WeatherForcast\\WeatherForcast\\WeatherForcast.csproj": {
+    "C:\\Users\\erifr\\Documents\\.NET utvecklare\\Molnkurs\\AzureDevopsDemo\\AzureDevopsDemo\\WeatherForcast\\WeatherForcast.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\erifr\\Documents\\.NET utvecklare\\Molnkurs\\AzureDevopsDemo\\AzureDevopsDemo\\WeatherForcast\\WeatherForcast\\WeatherForcast.csproj",
+        "projectUniqueName": "C:\\Users\\erifr\\Documents\\.NET utvecklare\\Molnkurs\\AzureDevopsDemo\\AzureDevopsDemo\\WeatherForcast\\WeatherForcast.csproj",
         "projectName": "WeatherForcast",
-        "projectPath": "C:\\Users\\erifr\\Documents\\.NET utvecklare\\Molnkurs\\AzureDevopsDemo\\AzureDevopsDemo\\WeatherForcast\\WeatherForcast\\WeatherForcast.csproj",
+        "projectPath": "C:\\Users\\erifr\\Documents\\.NET utvecklare\\Molnkurs\\AzureDevopsDemo\\AzureDevopsDemo\\WeatherForcast\\WeatherForcast.csproj",
         "packagesPath": "C:\\Users\\erifr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\erifr\\Documents\\.NET utvecklare\\Molnkurs\\AzureDevopsDemo\\AzureDevopsDemo\\WeatherForcast\\WeatherForcast\\obj\\",
+        "outputPath": "C:\\Users\\erifr\\Documents\\.NET utvecklare\\Molnkurs\\AzureDevopsDemo\\AzureDevopsDemo\\WeatherForcast\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

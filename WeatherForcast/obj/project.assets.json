@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\erifr\\Documents\\.NET utvecklare\\Molnkurs\\AzureDevopsDemo\\AzureDevopsDemo\\WeatherForcast\\WeatherForcast\\WeatherForcast.csproj",
+      "projectUniqueName": "C:\\Users\\erifr\\Documents\\.NET utvecklare\\Molnkurs\\AzureDevopsDemo\\AzureDevopsDemo\\WeatherForcast\\WeatherForcast.csproj",
       "projectName": "WeatherForcast",
-      "projectPath": "C:\\Users\\erifr\\Documents\\.NET utvecklare\\Molnkurs\\AzureDevopsDemo\\AzureDevopsDemo\\WeatherForcast\\WeatherForcast\\WeatherForcast.csproj",
+      "projectPath": "C:\\Users\\erifr\\Documents\\.NET utvecklare\\Molnkurs\\AzureDevopsDemo\\AzureDevopsDemo\\WeatherForcast\\WeatherForcast.csproj",
       "packagesPath": "C:\\Users\\erifr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\erifr\\Documents\\.NET utvecklare\\Molnkurs\\AzureDevopsDemo\\AzureDevopsDemo\\WeatherForcast\\WeatherForcast\\obj\\",
+      "outputPath": "C:\\Users\\erifr\\Documents\\.NET utvecklare\\Molnkurs\\AzureDevopsDemo\\AzureDevopsDemo\\WeatherForcast\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

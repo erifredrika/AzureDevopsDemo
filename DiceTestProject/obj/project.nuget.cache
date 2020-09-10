@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YO3PXGksi0W/j7GQoykHne+WoB5Z5EUlxWCr7A4v7nHWSuflcnjVFDmGRuVRmbeqrW5XbuOcve1Com8ly77axg==",
+  "dgSpecHash": "ivJhWgyThuzbPtgubatpN+ID3ZU0Mx2ZUkehpUS2sNZiNsTEcJ+/pXXVjfHQ8otn5aWxSnQO+YjAtRGmqeko4w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\erifr\\Documents\\.NET utvecklare\\Molnkurs\\AzureDevopsDemo\\AzureDevopsDemo\\WeatherForcast\\DiceTestProject\\DiceTestProject.csproj",
+  "projectFilePath": "C:\\Users\\erifr\\Documents\\.NET utvecklare\\Molnkurs\\AzureDevopsDemo\\AzureDevopsDemo\\DiceTestProject\\DiceTestProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\erifr\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\erifr\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
