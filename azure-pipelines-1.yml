@@ -41,11 +41,10 @@ stages:
   jobs:
   - job: Test 
     pool: vmImage$(vmImageName) 
-    steps: 
-    -   
-- task: DotNetCoreCLI@2
-  inputs:
-    command: 'test'
-    projects: '/DiceTestProject/*.csproj'
-    arguments: '$(BuildConfiguration)'
-    testRunTitle: 'Run tests'
+    steps:   
+    - task: DotNetCoreCLI@2
+      inputs:
+        command: 'test'
+        projects: '/DiceTestProject/*.csproj'
+        arguments: '$(BuildConfiguration)'
+        testRunTitle: 'Run tests'
