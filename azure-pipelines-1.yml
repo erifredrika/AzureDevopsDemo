@@ -37,6 +37,10 @@ stages:
         containerRegistry: $(dockerRegistryServiceConnection)
         tags: |
           $(tag)
+- stage: Test 
+  jobs:
+  - job: Test  
+    steps: 
     - task: DotNetCoreCLI@2
       inputs: 
         command: test
