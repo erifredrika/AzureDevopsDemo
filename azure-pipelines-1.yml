@@ -44,6 +44,6 @@ stages:
     - task: DotNetCoreCLI@2
       inputs:
         command: 'test'
-        projects: '\AzureDevopsDemo\AzureDevopsDemo\DiceTestProject\DiceTestProject.csproj'
+        projects: '$(Build.SourcesDirectory)/DiceTestProject/DiceTestProject.csproj'
         arguments: '$(BuildConfiguration)'
         testRunTitle: 'Run tests'
